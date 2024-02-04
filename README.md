@@ -1,5 +1,5 @@
 # Zarin-Pall
-The flex project with html &amp; css &amp; Javascript
+The flex project with html &amp; css &amp; Javascript;
 # zarin-pall-Template
 - [Demo Project](https://mohammadgolpayegany.github.io/Zarin-Pall/)
 - Developed by Mohammad Golpayegani
